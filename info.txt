@@ -1,0 +1,3 @@
+https://rawg.io/apidocs
+npm install redux react-redux react-router-dom styled-components framer-motion redux-thunk axios
+Api > reducer > action > component
